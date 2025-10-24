@@ -18,7 +18,7 @@ const PROJECTS = [
   {
     title: "Stylesence-AI",
     desc: "AI-powered body type and skin tone analysis web app.",
-    live: "https://Stylesence-ai.onrender.com", // 🔧 CHANGE -> project's Render URL
+    live: "https://stylesense-ai.onrender.com", // 🔧 CHANGE -> project's Render URL
     code: "https://github.com/Vinayaktiwari18/stylesense-ai", // 🔧 CHANGE -> repo URL
   },
 ];
