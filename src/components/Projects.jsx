@@ -12,7 +12,7 @@ const PROJECTS = [
   {
     title: "My Portfolio (this site)",
     desc: "Personal React + Tailwind portfolio — theme toggle included.",
-    live: "https://vinayak-portfolio.onrender.com", // 🔧 CHANGE -> your Render URL for portfolio
+    live: "https://vinayak-portfolio-payg.onrender.com", // 🔧 CHANGE -> your Render URL for portfolio
     code: "https://github.com/Vinayaktiwari18/vinayak-portfolio", // 🔧 CHANGE -> repo URL
   },
   {
